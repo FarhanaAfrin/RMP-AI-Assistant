@@ -1,0 +1,44 @@
+{
+  "Harvard University": [
+    {
+      "professor": "Dr. John Doe",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Dr. Doe's insights into economic theory are unparalleled. His lectures are engaging and thought-provoking."
+    },
+    {
+      "professor": "Prof. Jane Smith",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Prof. Smith is a leading expert in AI. Her courses are rigorous but very rewarding."
+    }
+  ],
+  "Stanford University": [
+    {
+      "professor": "Dr. Emily Davis",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Dr. Davis's passion for biology is evident in her teaching. The labs are well-organized and informative."
+    },
+    {
+      "professor": "Prof. Michael Brown",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Prof. Brown provides a comprehensive understanding of engineering principles. His lectures are well-structured."
+    }
+  ],
+  "MIT": [
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Dr. Johnson's lectures are incredibly clear and engaging. She makes difficult concepts easy to understand."
+    },
+    {
+      "professor": "Prof. David Kim",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Fantastic professor! His passion for chemistry is contagious, and the labs are well-organized."
+    }
+  ]
+}
